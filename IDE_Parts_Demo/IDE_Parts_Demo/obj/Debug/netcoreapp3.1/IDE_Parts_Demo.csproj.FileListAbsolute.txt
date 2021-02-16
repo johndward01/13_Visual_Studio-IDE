@@ -1,0 +1,13 @@
+C:\Users\johnd\Desktop\TA_repo\13_IDE_Parts-Visual_Studio\IDE_Parts_Demo\IDE_Parts_Demo\bin\Debug\netcoreapp3.1\IDE_Parts_Demo.exe
+C:\Users\johnd\Desktop\TA_repo\13_IDE_Parts-Visual_Studio\IDE_Parts_Demo\IDE_Parts_Demo\bin\Debug\netcoreapp3.1\IDE_Parts_Demo.deps.json
+C:\Users\johnd\Desktop\TA_repo\13_IDE_Parts-Visual_Studio\IDE_Parts_Demo\IDE_Parts_Demo\bin\Debug\netcoreapp3.1\IDE_Parts_Demo.runtimeconfig.json
+C:\Users\johnd\Desktop\TA_repo\13_IDE_Parts-Visual_Studio\IDE_Parts_Demo\IDE_Parts_Demo\bin\Debug\netcoreapp3.1\IDE_Parts_Demo.runtimeconfig.dev.json
+C:\Users\johnd\Desktop\TA_repo\13_IDE_Parts-Visual_Studio\IDE_Parts_Demo\IDE_Parts_Demo\bin\Debug\netcoreapp3.1\IDE_Parts_Demo.dll
+C:\Users\johnd\Desktop\TA_repo\13_IDE_Parts-Visual_Studio\IDE_Parts_Demo\IDE_Parts_Demo\bin\Debug\netcoreapp3.1\IDE_Parts_Demo.pdb
+C:\Users\johnd\Desktop\TA_repo\13_IDE_Parts-Visual_Studio\IDE_Parts_Demo\IDE_Parts_Demo\obj\Debug\netcoreapp3.1\IDE_Parts_Demo.csprojAssemblyReference.cache
+C:\Users\johnd\Desktop\TA_repo\13_IDE_Parts-Visual_Studio\IDE_Parts_Demo\IDE_Parts_Demo\obj\Debug\netcoreapp3.1\IDE_Parts_Demo.AssemblyInfoInputs.cache
+C:\Users\johnd\Desktop\TA_repo\13_IDE_Parts-Visual_Studio\IDE_Parts_Demo\IDE_Parts_Demo\obj\Debug\netcoreapp3.1\IDE_Parts_Demo.AssemblyInfo.cs
+C:\Users\johnd\Desktop\TA_repo\13_IDE_Parts-Visual_Studio\IDE_Parts_Demo\IDE_Parts_Demo\obj\Debug\netcoreapp3.1\IDE_Parts_Demo.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\TA_repo\13_IDE_Parts-Visual_Studio\IDE_Parts_Demo\IDE_Parts_Demo\obj\Debug\netcoreapp3.1\IDE_Parts_Demo.dll
+C:\Users\johnd\Desktop\TA_repo\13_IDE_Parts-Visual_Studio\IDE_Parts_Demo\IDE_Parts_Demo\obj\Debug\netcoreapp3.1\IDE_Parts_Demo.pdb
+C:\Users\johnd\Desktop\TA_repo\13_IDE_Parts-Visual_Studio\IDE_Parts_Demo\IDE_Parts_Demo\obj\Debug\netcoreapp3.1\IDE_Parts_Demo.genruntimeconfig.cache
