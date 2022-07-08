@@ -17,7 +17,7 @@ namespace NathansCRUDWebsite
             {
                 conn.Open();
                 MySqlCommand cmd = conn.CreateCommand();
-                cmd.CommandText = "SELECT ProductID, Name, Price, CategoryID, OnSale, StockLevel FROM products;";
+                cmd.CommandText = "SELECT ProductID, Name, Price, CategoryID, OnSale FROM bestbuy.products;";
 
                 MySqlDataReader reader = cmd.ExecuteReader();
                 List<Product> products = new List<Product>();
@@ -29,7 +29,6 @@ namespace NathansCRUDWebsite
                     row.Price = reader.GetDouble("Price");
                     row.CategoryID = reader.GetInt32("CategoryID");
                     row.OnSale = reader.GetInt32("OnSale");
-                    row.StockLevel = reader.GetInt32("StockLevel");
                     products.Add(row);
                 }
                 return products;
